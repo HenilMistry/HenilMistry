@@ -1,6 +1,16 @@
 # Hi there 👋
 # I'm Henil Mistry.
+<details><summary>CLICK ME</summary>
+<p>
 
+#### We can hide anything, even code!
+
+    ```
+      print("Hello visitor!")
+    ```
+
+</p>
+</details>
 <!--
 **HenilMistry/HenilMistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
