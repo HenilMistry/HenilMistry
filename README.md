@@ -30,12 +30,13 @@ Here are some ideas to get you started:
 
 #### Here it is mentioned!, just close it once you read coz i don't want it to be stolen.:stuck_out_tongue_winking_eye:
 
-    ```mermaid
-    graph TD;
-        A-->B;
-        A-->C;
-        B-->D;
-        C-->D;
+    ```
+        while(alive) {
+            eat()
+            sleep()
+            code()
+            repeat()
+        }
     ```
 
 </p>
