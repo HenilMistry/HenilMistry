@@ -41,3 +41,13 @@ Here are some ideas to get you started:
 
 </p>
 </details>
+
+<details><summary>Snake Eating Contributions</summary>
+<p>
+    
+## Snake	:snake: eating my contribution graph :world_map:
+    
+![snake gif](https://github.com/HenilMistry/HenilMistry/blob/output/github-contribution-grid-snake.gif)
+    
+</p>
+</details>
