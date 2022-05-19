@@ -30,14 +30,16 @@ Here are some ideas to get you started:
 
 #### Here it is mentioned!, just close it once you read coz i don't want it to be stolen.:stuck_out_tongue_winking_eye:
 
-    ```
-        while(alive) {
-            eat()
-            sleep()
-            code()
-            repeat()
-        }
-    ```
+```python
+import time, depression, notSleep
+while True:
+    
+    eat()
+    sleep()
+    code()
+    repeat()
+    
+````
 
 </p>
 </details>
