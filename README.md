@@ -53,3 +53,5 @@ while True:
     
 </p>
 </details>
+
+![Henu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenilMistry&show_icons=true&theme=radical)
