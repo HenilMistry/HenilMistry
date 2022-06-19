@@ -55,3 +55,9 @@ while True:
 </details>
 
 ![Henu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenilMistry&show_icons=true&theme=radical)
+
+![Henu's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HenilMistry&)  
+
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HenilMistry">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HenilMistry">
