@@ -1,63 +1,42 @@
-# Hi there 👋
-# I'm Henil Mistry.
-<!--
-**HenilMistry/HenilMistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  I'm Achyut Krishna Sai</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=henilmistry&label=Profile%20views&color=0e75b6&style=flat" alt="henilmistry" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on Backend Developement :electron:
-    - Using below technologies...
-      - 🌱 PHP Developer
-          - Also currently doing internship at @Jemistry Solutions as PHP Intern.
-      - 🌱 Want to learn node-js
-- :dart: I'm an UG person who want to explore :crystal_ball: as much as it can be explored.
-- :desktop_computer: I’m looking to collaborate on any project, repository in which we have to deal with backend.
-- 💬 Ask me about comments, i just love them to hear and then throw it out.
-- 📫 How to reach me: oh common, it's not 18's. You'll definitely find a way to contant me.
-- ⚡ Fun fact: I'm obssed with this tool and i visit my profile at least once a day.
-- :scroll: My clear funda of my life
-<details><summary>CLICK ME TO GET FUNDA</summary>
-<p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henilmistry" alt="henilmistry" /></a> </p>
 
-#### Here it is mentioned!, just close it once you read coz i don't want it to be stolen.:stuck_out_tongue_winking_eye:
+<p align="left"> <a href="https://twitter.com/henumistry" target="blank"><img src="https://img.shields.io/twitter/follow/henumistry?logo=twitter&style=for-the-badge" alt="henumistry" /></a> </p>
 
-```python
-import time, depression, notSleep
-while True:
-    
-    eat()
-    sleep()
-    code()
-    repeat()
-    
-````
+- 🔭 I’m currently working on **Full stack development**
 
+- 🌱 I’m currently learning **CP, ReactJS, PHP, jQuery**
+
+- 👯 I’m looking to collaborate on **Back End Work**
+
+- 👨‍💻 All of my projects are available at [https://github.com/henilMistry](https://github.com/henilMistry)
+
+- 📫 How to reach me **Common it's not 80's you'll figure it out on yourown.**
+
+- ⚡ Fun fact **I took help of my friend's repository to server my self a sweet introduction for GitHub profile**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/henumistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="henumistry" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/henil-mistry-91a412208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/henil-mistry-91a412208/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16827422/henil-mistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16827422/henil-mistry" height="30" width="40" /></a>
+<a href="https://instagram.com/_henu_2508_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_henu_2508_" height="30" width="40" /></a>
+<a href="https://medium.com/@henilmistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@henilmistry" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/henil mistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="henil mistry" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/cust_20ce054" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cust_20ce054" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/henil_mistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="henil_mistry" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/henilmistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="henilmistry" height="30" width="40" /></a>
 </p>
-</details>
 
-<details><summary>Snake Eating Contributions</summary>
-<p>
-    
-## Snake	:snake: eating my contribution graph :world_map:
-    
-![snake gif](https://github.com/HenilMistry/HenilMistry/blob/output/github-contribution-grid-snake.gif)
-    
-</p>
-</details>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-![Henu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenilMistry&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henilmistry&show_icons=true&locale=en&layout=compact" alt="henilmistry" /></p>
 
-![Henu's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HenilMistry&)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henilmistry&show_icons=true&locale=en" alt="henilmistry" /></p>
 
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HenilMistry">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HenilMistry">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henilmistry&" alt="henilmistry" /></p>
