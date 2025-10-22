@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  I'm Henil Mistry</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=henilmistry&label=Profile%20views&color=0e75b6&style=flat" alt="henilmistry" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HenilMistry&label=Profile%20views&color=0e75b6&style=flat" alt="henilmistry" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henilmistry" alt="henilmistry" /></a> </p>
 
