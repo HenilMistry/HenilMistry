@@ -10,10 +10,10 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
-      - name: Render images for every Mermaid diagram in all Markdown files (*.md) in the repo
-        uses: nielsvaneck/render-md-mermaid@v2
+      - name: Render Mermaid diagrams
+        uses: mermaid-js/mermaid-cli-action@v1
 
       - name: Commit rendered png and svg files
         uses: stefanzweifel/git-auto-commit-action@v4
